@@ -1,0 +1,163 @@
+{
+  "type": "k12_test",
+  "tests": [
+    {
+      "title": "Market Day with Father",
+      "title2": "Adapted from The Dutch Twins",
+      "author": "Lucy Fitch Perkins",
+      "passage": [
+        "One afternoon Kit and Kat were playing around the kitchen doorstep while their Mother sat on a bench by the door peeling some onions for supper. It was not yet suppertime, but Mother Vedder was always ahead of the clock with the work.",
+        "Kit and Kat had a pan of water and were teaching their ducklings to swim. They each had one little duckling of their very own. The ducklings squawked when Kit lifted them over the edge of the pan and into the water.",
+        "“Don’t do that, Kit,” said Kat. “The ducklings don’t like it. You didn’t like it when you fell into the water, did you?” “But I’m not a duck,” said Kit.",
+        "“Let’s go out to the garden and help Father get the boat loaded for market.” “All right,” said Kit. “May we, Mother?” “Yes,” said Mother Vedder; “and you may ask Father if he will take you to market with him tomorrow if it’s fair. Tell him I said you could ask.”",
+        "“Oh, goody, goody!” said Kit and Kat, and they ran as fast as their wooden shoes would take them out into the garden.",
+        "They found their father cutting cabbages and gathering them into piles. “May we go on the boat to market with you tomorrow morning? Mother said we might ask!”",
+        "“We’ll help you load the boat,” said Kit. “I can carry two,” said Kit. “We’ll both be good,” said Kat.",
+        "“Very well,” said Father. “We’ll see how you work! And tomorrow morning, if the weather is good, I’ll see! But you must go to bed early tonight.”",
+        "Kit and Kat ran to the cabbage pile. Kat took one, and Kit took two—just to show that he could. “When Father says ‘I’ll see,’ he always means ‘yes,’” Kat said.",
+        "In Holland, there are a great many canals. They cross the fields like roadways of water. It is very easy for farmers to load their vegetables for market right on a boat.",
+        "The twins and their father worked like beavers, washing the vegetables and packing them in baskets, until their good old boat was filled.",
+        "Mother Vedder had made soup for supper. The twins loved soup. They each ate three bowls of it, and then their mother put them to bed."
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What must happen for the twins to be able to go to the market?",
+          "choices": {
+            "A": "The weather must be nice, they must work hard, and they need to go to bed early.",
+            "B": "They must help their mother with supper and help their father load the boat.",
+            "C": "They must put up their ducklings, help load the boat, and help cook dinner.",
+            "D": "The boat must be loaded, and they must go to bed early."
+          },
+          "answer": "A"
+        },
+        {
+          "id": "q2",
+          "question": "Which detail supports the idea that the twins were excited to go to market with their father?",
+          "choices": {
+            "A": "Kit and Kat had a pan of water and were teaching their ducklings to swim.",
+            "B": "‘Let’s do something else! I’ll tell you what! Let’s go out to the garden and help Father get the boat loaded for market.’",
+            "C": "‘Oh, goody, goody!’ said Kit and Kat, both at once; and they ran as fast as their wooden shoes would take them out into the garden.",
+            "D": "Kit and Kat ran to the cabbage pile."
+          },
+          "answer": "C"
+        },
+        {
+          "id": "q3",
+          "question": "What is Kit and Kat’s father’s job?",
+          "choices": {
+            "A": "Boater",
+            "B": "Farmer",
+            "C": "Fisherman",
+            "D": "Wood-carver"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "q4",
+          "question": "Which statement shows Kit and Kat are trying to prove they can be helpful and should be allowed to go with their father to the market?",
+          "choices": {
+            "A": "“Mother said we might ask!”",
+            "B": "“I can carry a cabbage.”",
+            "C": "“We’ll see how you work!”",
+            "D": "“And tomorrow morning, if the weather is good, I’ll see!”"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "q5",
+          "question": "What does Kit and Kat’s family take to the market?",
+          "choices": {
+            "A": "Meat",
+            "B": "Fruit",
+            "C": "Buttermilk",
+            "D": "Vegetables"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "title": "Peter Has Another Great Laugh",
+      "author": "Thornton W. Burgess",
+      "passage": [
+  "It was just sunup as Reddy Fox started down the Lone Little Path to the Green Meadows.",
+  "Reddy was late. He should be over at the Old Briar Patch by this time. He was afraid now that Peter Rabbit would not be there.",
+  "When he came in sight of the Old Briar Patch, there sat Peter on the edge of it.",
+  "\"Good morning, Peter Rabbit,\" said Reddy Fox, in his politest manner. \"I am sorry to have kept you waiting; it is all because I had a terrible fright last night.\"",
+  "\"Is that so? What was it?\" asked Peter, ducking down behind a big bramble bush to hide his smile.",
+  "\"Why, I went over to Farmer Brown’s garden to see if that new planting of young cabbage was all right, and there I met a terrible monster. It frightened me so that I did not dare to come out this morning until jolly, round Mr. Sun had begun to climb up in the sky, and so I am a little late. Are you ready, Peter Rabbit, to go up to the new planting of young cabbage with me?\" asked Reddy, in his pleasantest manner.",
+  "Now, what do you think Peter Rabbit did? Why, Peter just began to laugh. He laughed and laughed and shouted! He lay down on his back and kicked his heels for very joy! But all the time he took care to keep behind a big, friendly bramble bush.",
+  "Reddy Fox stared at Peter Rabbit. He just didn’t know what to make of it. He began to think that Peter had gone crazy. He couldn’t see a thing to laugh at, yet here was Peter laughing. Finally Peter stopped and sat up.",
+  "\"Did—did—the monster catch you, Reddy Fox?\" he asked, wiping his eyes.",
+  "\"No,\" replied Reddy, \"it didn’t catch me, because I could run faster than it could, but it chased me all the way home.\"",
+  "\"In that case, I think I’ll not go up to the cabbage bed this morning, for you know I cannot run as fast as you can, Reddy, and the monster might catch me,\" replied Peter, very gravely. \"Besides,\" he added, \"I have had my fill of tender young cabbage, and it was very nice indeed.\"",
+  "\"What!\" shouted Reddy Fox.",
+  "\"Yes,\" continued Peter Rabbit, \"I just couldn’t wait till morning, so I went up there early last night. I’m thankful to you for telling me of it, Reddy Fox; I am indeed.\"",
+  "For just a little minute an ugly look crept into Reddy’s face, for now he knew that once more Peter Rabbit had fooled him. But he kept his temper and managed to smile, as he said:",
+  "\"Oh, don’t mention it, Peter Rabbit, don’t mention it. But tell me, didn’t you meet the monster?\"",
+  "\"No,\" replied Peter Rabbit. And then, do what he would, he couldn’t remain serious another minute, but began to laugh just as he had before.",
+  "\"What’s the joke, Peter Rabbit? Tell me so that I can laugh too,\" begged Reddy Fox.",
+  "\"Why,\" said Peter Rabbit when he could get his breath, \"the joke is that the monster that frightened you so was the old straw hat of Farmer Brown’s boy, and I was underneath it. Ha, ha, ha! Ho, ho, ho!\""
+]
+,
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Why was Reddy Fox running late?",
+          "options": {
+            "A": "He forgot he had to meet Peter Rabbit.",
+            "B": "He got lost on his way to the cabbage patch.",
+            "C": "He had been scared during the night and did not want to go out until sunup.",
+            "D": "He could not remember the time he was supposed to meet Peter Rabbit."
+          },
+          "answer": "C"
+        },
+        {
+          "id": "q2",
+          "question": "Why was Peter Rabbit laughing at Reddy Fox?",
+          "options": {
+            "A": "Peter had played a trick on Reddy.",
+            "B": "Peter thought that Reddy looked funny.",
+            "C": "Peter thought it was funny that Reddy was late.",
+            "D": "Peter knew he had already eaten all of the carrots."
+          },
+          "answer": "A"
+        },
+        {
+          "id": "q3",
+          "question": "What excuse does Peter Rabbit give Reddy Fox as to why he cannot travel to the cabbage patch?",
+          "options": {
+            "A": "Peter cannot run as fast as Reddy, and the monster might catch him.",
+            "B": "The cabbage patch does not have any new cabbages growing.",
+            "C": "The farmer will chase Peter away from the garden.",
+            "D": "Peter does not like to eat cabbage from the garden."
+          },
+          "answer": "A"
+        },
+        {
+          "id": "q4",
+          "question": "Which detail from the selection shows that Peter was laughing very hard?",
+          "options": {
+            "A": "“When he came in sight of the Old Briar Patch, there sat Peter on the edge of it.”",
+            "B": "“He lay down on his back and kicked his heels for very joy!”",
+            "C": "“But all the time he took care to keep behind a big, friendly bramble bush.”",
+            "D": "“For now he knew that once more Peter Rabbit had fooled him.”"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "q5",
+          "question": "Why did Reddy Fox think that Peter Rabbit had gone crazy?",
+          "options": {
+            "A": "Peter Rabbit had eaten all of the new cabbage in the garden.",
+            "B": "Peter Rabbit was laughing, and Reddy Fox did not know why.",
+            "C": "Peter Rabbit had been able to fool Reddy Fox.",
+            "D": "Peter Rabbit was not scared of the monster."
+          },
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}
