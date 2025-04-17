@@ -1,5 +1,6 @@
 {
   "type": "k12_test",
+  "tests": [
   "title": "Market Day with Father",
   "title2": "Adapted from The Dutch Twins",
   "author": "Lucy Fitch Perkins",
@@ -73,5 +74,6 @@
       },
       "answer": "D"
     }
+  ]
   ]
 }
